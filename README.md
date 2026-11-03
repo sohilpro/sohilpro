@@ -8,7 +8,7 @@
 
 ## Check my Portfolio
 
-### [<img src="https://emojis.slackmojis.com/emojis/images/1643514525/5197/party_blob.gif?1643514525" width="20"/>](https://vito.vercel.app)&nbsp; [sohilpro.app](https://sohil-pro-cv.netlify.app)&nbsp; [<img src="https://emojis.slackmojis.com/emojis/images/1643514525/5197/party_blob.gif?1643514525" width="20"/>](https://sohil-pro-cv.netlify.app)
+### [<img src="https://emojis.slackmojis.com/emojis/images/1643514525/5197/party_blob.gif?1643514525" width="20"/>](https://sohilpro.github.io/My-CV2)&nbsp; [sohilpro.CV](https://sohilpro.github.io/My-CV2)&nbsp; [<img src="https://emojis.slackmojis.com/emojis/images/1643514525/5197/party_blob.gif?1643514525" width="20"/>](https://sohilpro.github.io/My-CV2)
 
 ## My Current Tech Stack
 
