@@ -27,15 +27,15 @@
     <a href="https://github.com/sohilpro" title="Go to Source">
       <img width=400 src="https://readme-stats-github.pages.dev/api?username=sohilpro&theme=shadow" alt="sohilpro" />
     </a>
-    <a href="https://github.com/sohilpro" title="Go to Source">
+    <!-- <a href="https://github.com/sohilpro" title="Go to Source">
       <img width=400 src="https://github-readme-streak-stats.herokuapp.com?user=sohilpro&theme=github-dark-blue" alt="sohilpro"/>
-    </a>
+    </a> -->
     <a href="https://github.com/sohilpro" title="Go to Source">
       <img width=400 src="https://readme-stats-github.pages.dev/api/top-langs?username=sohilpro&theme=shadow" alt="sohilpro"/>
     </a>
-    <a href="https://github.com/sohilpro" title="Go to Source">
+    <!-- <a href="https://github.com/sohilpro" title="Go to Source">
       <img width=400 src="https://readme-stats-github.pages.dev/api/typing?lines=Crafting%20modern%20web%20experiences...%3BEngineering%20scalable%20architectures...%3BAutomating%20complex%20workflows...%3BBuilding%20the%20future%2C%20one%20system%20at%20a%20time.&theme=shadow&color=%23c9d1d9&particleColor=%230d1117&background=%23473f83" alt="sohilpro"/>
-    </a>
+    </a> -->
   </div>
   <br>
 </p>
